@@ -1,0 +1,1 @@
+When I save a large file into the local machine the app was unable to execute any other functionality cause the capacitor was still busy with the job of saving the file. In that case, look into making the saving of the file async and saving the file whilst being able to execute other functionalities.

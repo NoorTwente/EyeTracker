@@ -1,0 +1,12 @@
+- Delete the noice by focusing on the eye itself or just the area surrounding the eye
+- Turn the image into a threshold image
+- Find the darkest spot around the eye which is the pupil
+- Reduce the noice around the pupil so there is only one dark spot
+
+- Find/Set the middle point of the pupil
+====================================================================================
+THE PROBLEM:
+Calculate the displacement of the pupil from the middle by measuring the distance between the mid point coordinates 
+and to the point where the pupil is located.
+The displacement found is in the radian measurement and the angle between the vision sight and the mid point.
+Calculate the full field of vision of the person.

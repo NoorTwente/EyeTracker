@@ -1,0 +1,6 @@
+Password-is visible
+Time bar stays full
+Logs out on refresh 
+Nothing visible on the Team6_production action
+Can't close the actions
+After the press, Cannot read properties of undefined reading actions
